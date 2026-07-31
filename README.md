@@ -4,3 +4,9 @@ I made this project because I wanted to get back into my coding-flow so I decide
 
 # Run the Calculator
 To Run the calculator download and run the .exe file or download the python file and run it.
+
+```bash
+git clone https://github.com/omamated/Python-Calculator-Gui.git
+cd Python-Calculator-Gui
+python Calculator.py
+```
